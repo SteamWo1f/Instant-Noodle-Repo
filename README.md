@@ -2,4 +2,4 @@
 # Instant-Noodle-Repo
 A repo for A Comprehensive Instant Noodle\Ramen Tier List with over 450 items
 
-You can find the tier list here:https://tiermaker.com/create/the-instant-noodle-tier-list-15490030
+You can find the tier list here: https://tiermaker.com/create/the-instant-noodle-tier-list-15490030
